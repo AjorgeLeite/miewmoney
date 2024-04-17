@@ -1,0 +1,249 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "avatar": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+      "name": "John Doe",
+      "username": "mockuser1",
+      "password": "password1",
+      "balance": 4902,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "income",
+          "amount": 1200,
+          "category": "Salary",
+          "description": "Monthly salary",
+          "date": "2023-11-13"
+        },
+        {
+          "id": 2,
+          "type": "expense",
+          "amount": 200,
+          "category": "Food",
+          "description": "Lunch",
+          "date": "2023-12-12"
+        },
+        {
+          "id": 3,
+          "type": "expense",
+          "amount": 530,
+          "category": "GYM",
+          "description": "Membership",
+          "date": "2024-01-14"
+        },
+        {
+          "id": 4,
+          "type": "income",
+          "amount": 2000,
+          "category": "Salary",
+          "description": "Monthly salary",
+          "date": "2024-01-25"
+        },
+        {
+          "id": 5,
+          "type": "expense",
+          "amount": 1530,
+          "category": "Hospital",
+          "description": "Hospital Bill",
+          "date": "2024-02-14"
+        },
+        {
+          "id": 6,
+          "type": "expense",
+          "amount": 230,
+          "category": "Car",
+          "description": "Car Payment",
+          "date": "2024-03-14"
+        },
+        {
+          "id": 7,
+          "type": "expense",
+          "amount": 230,
+          "category": "Electric",
+          "description": "Electricity Bill",
+          "date": "2024-04-14"
+        },
+        {
+          "id": 8,
+          "type": "income",
+          "amount": 2466,
+          "category": "Salary",
+          "description": "Payday",
+          "date": "2024-04-14"
+        },
+        {
+          "id": 9,
+          "type": "expense",
+          "amount": 124,
+          "category": "Shoes",
+          "description": "New Shoes",
+          "date": "2024-04-17"
+        },
+        {
+          "id": 10,
+          "type": "income",
+          "amount": 2000,
+          "category": "Loterry",
+          "description": "Prize",
+          "date": "2024-04-17"
+        },
+        {
+          "id": 11,
+          "type": "income",
+          "amount": 100,
+          "category": "Reimbursement",
+          "description": "Online shop Reiumbursement",
+          "date": "2024-04-17"
+        },
+        {
+          "id": 12,
+          "type": "income",
+          "amount": 100,
+          "category": "Reimbursement",
+          "description": "Online shop Reiumbursement",
+          "date": "2024-04-17"
+        },
+        {
+          "id": 13,
+          "type": "expense",
+          "amount": 120,
+          "category": "Keyboard",
+          "description": "New Keyboard",
+          "date": "2024-04-17"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "name": "John Doe2",
+      "username": "mockuser2",
+      "password": "password2",
+      "balance": 1935,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "income",
+          "amount": 1200,
+          "category": "Salary",
+          "description": "Monthly salary",
+          "date": "2024-01-13"
+        },
+        {
+          "id": 2,
+          "type": "expense",
+          "amount": 200,
+          "category": "Food",
+          "description": "Lunch",
+          "date": "2024-02-12"
+        },
+        {
+          "id": 3,
+          "type": "expense",
+          "amount": 530,
+          "category": "GYM",
+          "description": "Membership",
+          "date": "2024-03-14"
+        },
+        {
+          "id": 4,
+          "type": "income",
+          "amount": 1465,
+          "category": "Salary",
+          "description": "Payday",
+          "date": "2024-04-14"
+        }
+      ]
+    },
+    {
+      "id": "5711",
+      "username": "mockuser3",
+      "password": "password3",
+      "name": "John Doe 3",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "id": "5e05",
+      "avatar": "",
+      "name": "John Doe 4",
+      "username": "mockuser4",
+      "password": "password4",
+      "balance": 12200,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "income",
+          "amount": 12312,
+          "category": "Credit",
+          "description": "Bank Crecit",
+          "date": "2024-04-15"
+        },
+        {
+          "id": 2,
+          "type": "expense",
+          "amount": 112,
+          "category": "Electric",
+          "description": "Electricity Bill",
+          "date": "2024-04-15"
+        }
+      ]
+    },
+    {
+      "id": "42f5",
+      "username": "mockuser5",
+      "password": "password5",
+      "name": "John Doe 5",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "id": "d8e2",
+      "username": "mockuser6",
+      "password": "password6",
+      "name": "John Doe 6",
+      "avatar": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "id": "04c6",
+      "avatar": "",
+      "name": "Antonio",
+      "username": "Antonio",
+      "password": "Jorge",
+      "balance": 5000,
+      "transactions": [
+        {
+          "id": 1,
+          "type": "income",
+          "amount": 5000,
+          "category": "Salary",
+          "description": "Pay Day",
+          "date": "2024-04-17"
+        }
+      ]
+    },
+    {
+      "id": "113a",
+      "username": "Antonio2",
+      "password": "jorge2",
+      "name": "António",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "id": "1a08",
+      "username": "Luis",
+      "password": "Luis",
+      "name": "Luis",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "balance": 0,
+      "transactions": []
+    }
+  ]
+}
