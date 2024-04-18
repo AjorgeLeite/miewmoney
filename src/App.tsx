@@ -1,13 +1,9 @@
-import React, { useState } from "react";
 import {
   AppContainer,
   AppContent,
   ChartsContainer,
   HistoryContainer,
-  StyledHeaderContainer,
   Title,
-  Filters,
-  StyledSelect,
   TopChartsRow,
   Chart,
   BottomChartsRow,
@@ -23,7 +19,7 @@ import { useAuth } from "./context/AppContext";
 import IncomeChart from "./components/Charts/IncomeChart";
 
 function App() {
-  const { isLoggedIn, name, transactions } = useAuth();
+  const { isLoggedIn, transactions } = useAuth();
 
   return (
     <AppContainer>

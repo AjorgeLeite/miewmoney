@@ -13,6 +13,7 @@ export const WelcomeUser = styled.div`
 
 export const Avatar = styled.div`
   img {
+    margin-top: 10px;
     width: 80px;
     border-radius: 50%;
   }
