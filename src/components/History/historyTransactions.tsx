@@ -13,7 +13,7 @@ import {
   Filters,
   TitleWhite,
 } from "./historyTransactions.styles";
-import { Transaction } from "../../context/AppContext";
+import { Transaction } from "../../Types";
 import EditTransactionForm from "../Transactions/editTransaction";
 import { SmallStyledButton } from "../Transactions/Transaction.styles";
 

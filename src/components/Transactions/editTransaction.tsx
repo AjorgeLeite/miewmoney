@@ -10,12 +10,8 @@ import {
   TransactionContainerEdit,
 } from "./Transaction.styles";
 import { StyledSelect } from "../History/historyTransactions.styles";
-import { Transaction } from "../../context/AppContext";
-
-interface EditTransactionFormProps {
-  transaction: Transaction;
-  onClose: () => void;
-}
+import { Transaction } from "../../Types";
+import { EditTransactionFormProps } from "../../Types";
 
 const EditTransactionForm: React.FC<EditTransactionFormProps> = ({
   transaction,

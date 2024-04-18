@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import Chart from "chart.js/auto";
-import { Transaction } from "../../context/AppContext";
+import { Transaction } from "../../Types";
 
 const IncomeChart: React.FC<{ transactions: Transaction[] | null }> = ({
   transactions,

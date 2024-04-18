@@ -20,6 +20,7 @@ To get started with Miew Money, follow these steps:
 3. **Start The Application**: Finally, run the app using:
    npm start
 
-# User
-   You can register a new user, or use mockuser1 pw:password1 as an example.
-António Leite.
+## User 
+   You can register a new user, or use user: mockuser1 pw: password1 as an example.
+
+### António Leite.

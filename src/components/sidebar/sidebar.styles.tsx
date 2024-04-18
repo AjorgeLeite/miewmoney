@@ -1,8 +1,6 @@
 import styled from "styled-components";
+import { SidebarContainerProps } from "../../Types";
 
-interface SidebarContainerProps {
-  isOpen: boolean;
-}
 
 export const SidebarContainer = styled.div<SidebarContainerProps>`
   display: flex;

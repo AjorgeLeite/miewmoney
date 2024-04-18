@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Chart, { ChartType } from "chart.js/auto";
-import { Transaction } from "../../context/AppContext";
+import { Transaction } from "../../Types";
 import "chartjs-adapter-date-fns";
 
 const LineChart: React.FC<{ transactions: Transaction[] | null }> = ({
